@@ -39,7 +39,7 @@ Performed in **Power Query**, the cleaning process involved:
 - Identified transaction behavior by account type  
 - Investigated customer distribution across regions and income brackets
 
-  ![image alt]()
+  ![image alt](https://github.com/odewolemistura/Fintech-Customer-Account-and-Loan-Performance-Analysis-POWER-BI/blob/604e04668c9d4d7c2ebe1dc832afe04650bbaa80/Dashboard%201.png)
 
 ### 📄 Page 2: Loan & Credit Performance
 - Explored loan approval rates by customer attributes  
