@@ -37,12 +37,16 @@ Performed in **Power Query**, the cleaning process involved:
 ### 📄 Page 1: Customer & Account Insights
 - Examined customer demographics and financial engagement  
 - Identified transaction behavior by account type  
-- Investigated customer distribution across regions and income brackets  
+- Investigated customer distribution across regions and income brackets
+
+  ![image alt]()
 
 ### 📄 Page 2: Loan & Credit Performance
 - Explored loan approval rates by customer attributes  
 - Evaluated loan purpose trends  
-- Analyzed loan amounts and interest rates across regions and income levels  
+- Analyzed loan amounts and interest rates across regions and income levels
+
+  ![image alt]()
 
 ## 📊 Data Analysis (Key Findings)
 
