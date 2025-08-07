@@ -46,7 +46,7 @@ Performed in **Power Query**, the cleaning process involved:
 - Evaluated loan purpose trends  
 - Analyzed loan amounts and interest rates across regions and income levels
 
-  ![image alt]()
+  ![image alt](https://github.com/odewolemistura/Fintech-Customer-Account-and-Loan-Performance-Analysis-POWER-BI/blob/88f0f00f4e9562a15e1e29a82a8d092e6eb390cc/Dashboard%202.png)
 
 ## 📊 Data Analysis (Key Findings)
 
