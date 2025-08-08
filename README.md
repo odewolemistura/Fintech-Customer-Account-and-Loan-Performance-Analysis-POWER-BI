@@ -10,7 +10,7 @@ The analysis is split into two pages:
 
 ## 📁 Data Source
 
-The dataset was obtained from **Kaggle**. It contains synthetic records on:
+The dataset was obtained from **Kaggle**. It contains records on:
 - Customer demographics and financial behavior  
 - Account activities (balance, deposits, withdrawals, transfers)  
 - Loan application summaries (loan amounts, status, interest, purpose)  
